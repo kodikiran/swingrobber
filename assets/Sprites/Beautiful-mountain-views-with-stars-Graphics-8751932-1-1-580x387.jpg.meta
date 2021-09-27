@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "61ba775f-90c8-450d-b169-e32e555dba64",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 580,
+  "height": 387,
+  "platformSettings": {},
+  "subMetas": {
+    "Beautiful-mountain-views-with-stars-Graphics-8751932-1-1-580x387": {
+      "ver": "1.0.4",
+      "uuid": "7d6b5174-c354-4edb-8049-7e6c98bcbdc6",
+      "rawTextureUuid": "61ba775f-90c8-450d-b169-e32e555dba64",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 580,
+      "height": 387,
+      "rawWidth": 580,
+      "rawHeight": 387,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e2d514b7-dca5-42b5-95c5-977e4a29b52e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 600,
+  "height": 533,
+  "platformSettings": {},
+  "subMetas": {
+    "depositphotos_10769506-stock-illustration-silhouette-of-the-city-and": {
+      "ver": "1.0.4",
+      "uuid": "a0f5ba88-b9ed-4487-b5ca-58e9c21b7810",
+      "rawTextureUuid": "e2d514b7-dca5-42b5-95c5-977e4a29b52e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 600,
+      "height": 533,
+      "rawWidth": 600,
+      "rawHeight": 533,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
